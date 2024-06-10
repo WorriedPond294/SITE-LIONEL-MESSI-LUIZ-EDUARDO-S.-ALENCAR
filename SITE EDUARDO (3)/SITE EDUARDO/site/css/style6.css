@@ -1,0 +1,45 @@
+body{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: rgb(255, 255, 255);
+}
+header {
+   background-color: rgba(0, 0, 0, 0.5); /* Adicionando um fundo preto semi-transparente para o cabeçalho */
+   color: #fff;
+   padding: 20px;
+}
+
+nav ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+
+nav ul li {
+   display: inline;
+   margin-right: 20px;
+}
+
+nav ul li a {
+   text-decoration: none;
+   color: #fff;
+}
+
+nav ul li a:hover {
+   color: gold;
+}
+
+main {
+   padding: 20px;
+   color: #fff; /* Mudando a cor do texto principal para branco */
+}
+
+footer {
+   background-color: rgba(0, 0, 0, 0.5); /* Adicionando um fundo preto semi-transparente para o rodapé */
+   color: #fff;
+   text-align: center;
+   padding: 10px 0;
+}
+
+#menu #logo-messi{
+   width: 100px;
+}
